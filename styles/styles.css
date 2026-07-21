@@ -83,6 +83,11 @@ h3{
 }
 
 /*estilos de id*/
+
+#proyectos h2{
+    flex-basis: 100%;
+}
+
 #proyectos{
     display: flex;
     flex-wrap: wrap;
